@@ -19,4 +19,4 @@ def calibration(filename: str) -> int:
 
 assert calibration("day01/puzzle1_test_input") == 142
 
-print(calibration("day01/puzzle1_input"))
+print(calibration("day01/input"))
